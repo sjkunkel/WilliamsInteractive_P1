@@ -1,0 +1,10 @@
+﻿// Line Format: FirstName LastName BirthYear DeathYear
+Beth Smith 1901 1999
+Dale Smith 1903 1982
+Sally Smith 1922 1989
+Bill Smith 1925 1943
+Jill Smith 1925 1997
+Jerry Hall 1915 1985
+Bill Thorton 1942 1998
+Berry White 1965 1975
+William Walters 1978 1995
