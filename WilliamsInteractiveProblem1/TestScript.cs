@@ -10,6 +10,9 @@ namespace WilliamsInteractiveProblem1
 	{
 		static void Main( string[] args )
 		{
+			WhosAlive hist = new WhosAlive( "../../DataSet.txt" );
+
+			Console.ReadKey();
 		}
 	}
 }
